@@ -1,0 +1,14 @@
+input{
+    padding: 8px 3px;
+    border: none;
+    outline: none;
+}
+form{
+    border: 1px solid grey;
+    display: inline-block;
+    padding: 8px;
+    margin: 83px auto 1px 17rem;
+}
+form i{
+    cursor: pointer;
+}
